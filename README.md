@@ -96,7 +96,7 @@ Even though we observe a linear trend between app downloads and revenue, it is p
 
 ### 5. Correlation between Google Trends, app downloads, and revenue
 
-After diving deeper into Tinder and Bumble's search popularity, app downloads, and revenue, there appears to be moderate-to-strong correlation between Tinder and Bumble search popularity and app downloads and a high correlation between app downloads and revenue. This tells us that app downloads is more reliable than Google Trends in measuring dating app popularity.
+After diving deeper into Tinder and Bumble's search popularity, app downloads, and revenue, there appears to be moderate correlation between Tinder search popularity and app downloads, weak correlation between Bumble search popularity and app downloads, and a high correlation between app downloads and revenue. This tells us that app downloads is more reliable than Google Trends in measuring dating app popularity.
 
 <p align="center">
 <img src="images/Tinder Search Popularity v Monthly Downloads (2018-2020).JPG" width=425>
@@ -138,7 +138,7 @@ Based on Google Trends:
 
 The biggest takeaway from this is that while Match.com and OkCupid have once had a lead in the past, they are trending downwards. If this continues, it is likely that Bumble and Hinge will outpace them in popularity over time. It makes sense as I have not seen as much publicity with Match.com and OkCupid relative to Bumble and Hinge.
 
-Tinder google searches have a 71% correlation with Tinder monthly downloads. Bumble google searches have a -67% correlation with Bumble monthly downloads. Because search popularity scores do fluctuate, that means dating app downloads is a more reliable indicator of dating app popularity.
+Tinder google searches have a 46% correlation with Tinder monthly downloads. Bumble google searches have a 15% correlation with Bumble monthly downloads. Because search popularity scores do fluctuate, that means dating app downloads is a more reliable indicator of dating app popularity.
 
 ### 8. Limitations
 There were challenges faced when collecting and analyzing the data. 
