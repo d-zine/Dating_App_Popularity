@@ -138,7 +138,7 @@ Based on Google Trends:
 
 The biggest takeaway from this is that while Match.com and OkCupid have once had a lead in the past, they are trending downwards. If this continues, it is likely that Bumble and Hinge will outpace them in popularity over time. It makes sense as I have not seen as much publicity with Match.com and OkCupid relative to Bumble and Hinge.
 
-Tinder google searches have a 46% correlation with Tinder monthly downloads. Bumble google searches have a 15% correlation with Bumble monthly downloads. Because search popularity scores do fluctuate, that means dating app downloads is a more reliable indicator of dating app popularity.
+Tinder google searches only have a 46% correlation with Tinder monthly downloads. Bumble google searches only have a 15% correlation with Bumble monthly downloads. Because search popularity scores do fluctuate, that means dating app downloads is a more reliable indicator of dating app popularity.
 
 ### 8. Limitations
 There were challenges faced when collecting and analyzing the data. 
