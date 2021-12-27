@@ -40,7 +40,7 @@ My hypothesis is Tinder is the most popular dating app.
 
 Tinder invented the swipe gesture, a cultural phenomenon of 'swipe left' and 'swipe right' to accept or reject a match, which has since been adopted in other mobile products. Also, anecdotally, among my friends and family, Tinder is the most well-known. 
 
-My ideal metric to measure popularity would be the number of matches (serious relationships) that each app generates. Since this cannot be measured directly, this analysis will rely on survey data, Google Trends, Statista and SEC data sources as proxies.
+My ideal metric to measure popularity would be the number of matches (serious relationships) that each app generates. Since this cannot be measured directly, this analysis will rely on survey data, Google Trends, Statista, and SEC data sources as proxies.
 
 For this analysis, I will examine the following 5 apps:
 
